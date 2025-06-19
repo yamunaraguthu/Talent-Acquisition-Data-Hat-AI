@@ -1,7 +1,8 @@
-#Talent-Acquisition-Data-Hat-AI
+#TALENT-ACQUISITION-DATA-HAT-AI
 
 DATA-HAT BACKEND DEVELOPER ASSIGNMENT
 SUBMITTED BY 
+
 NAME:RAGUTHU YAMUNA
 
 TASK:Build A FastAPI Backend for News & Weather Aggregation
@@ -64,26 +65,31 @@ git clone https://github.com/yamunaraguthu/Talent-Acquision-Data-Hat-AI
 2️⃣ Create a virtual environment
 
 python -m venv yamuna
-yamuna\Scripts\activate     
+yamuna\Scripts\activate    
+
 
 3️⃣ Install dependencies
 
 pip install -r requirements.txt
 
+
 4️⃣ Set up environment variables
 
-Create a .env file based on .env.example:
 
+Create a .env file based on .env.example:
 SECRET_KEY=kw4dJvpSGD_XN-n_zFy_SnAmiM_WL9PV_d1DjolHr3o
 NEWS_API_KEY=7b292e04a7ac4bb59f787de6e9fbed04
+
 WEATHER_API_KEY=767c1905e7ab50e9f6751515fd1e7d46
 REDIS_URL="redis://localhost:6379/0"
+
 
 5️⃣ Run the app
 
 uvicorn app.main:app --reload
 
 ---
+
 
 📌 Authentication Endpoints
 
@@ -94,6 +100,7 @@ POST /login — Login and receive JWT token
 POST /logout — Invalidate token
 
 ---
+
 
 📌 News Endpoints
 
@@ -129,6 +136,7 @@ Use FastAPI (Python 3.12.6)
 
 Contact:
 Email:yamunaraguthu2003@gmail.com
-github.com/yamunaraguthu
+
+github:github.com/yamunaraguthu
 
 
