@@ -3,11 +3,24 @@
 DATA-HAT BACKEND DEVELOPER ASSIGNMENT
 SUBMITTED BY NAME:RAGUTHU YAMUNA
 
-TASK:Build a FastAPI Backend for News & Weather Aggregation
+TASK:Build A FastAPI Backend for News & Weather Aggregation
 
+PROJECT STRUCTURE 
+fastapi_news_weather/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── auth.py
+│   ├── news.py
+│   ├── weather.py
+│   ├── models.py
+│   ├── database.py
+│   ├── utils.py
+├── requirements.txt
+├── .env.example
+└── README.md
 
-
-
+![image]("")
 
 
 
