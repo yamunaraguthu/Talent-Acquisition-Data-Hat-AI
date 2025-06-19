@@ -1,4 +1,6 @@
 # Talent-Acquisition-Data-Hat-AI
+NAME:RAGUTHU YAMUNA
+
 
 Data-Hat FastAPI Backed for News & Weather Aggregation 
 
@@ -20,7 +22,7 @@ Caching to reduce load on third-party APIs
 
 🛠 Tech Stack
 
-Python 
+Python (3.12.6)
 
 FastAPI
 
@@ -33,7 +35,7 @@ NewsAPI / OpenWeatherMap (or similar)
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/data-hat-backend.git
+git clone https://github.com/yamunaraguthu/Talent-Acquision-Data-Hat-AI
 cd data-hat-backend
 
 2️⃣ Create a virtual environment
@@ -49,10 +51,10 @@ pip install -r requirements.txt
 
 Create a .env file based on .env.example:
 
-SECRET_KEY=your-secret-key
-NEWS_API_KEY=your-news-api-key
-WEATHER_API_KEY=your-weather-api-key
-
+SECRET_KEY=kw4dJvpSGD_XN-n_zFy_SnAmiM_WL9PV_d1DjolHr3o
+NEWS_API_KEY=7b292e04a7ac4bb59f787de6e9fbed04
+WEATHER_API_KEY=767c1905e7ab50e9f6751515fd1e7d46
+REDIS_URL="redis://localhost:6379/0"
 
 5️⃣ Run the app
 
@@ -69,6 +71,7 @@ POST /login — Login and receive JWT token
 POST /logout — Invalidate token
 
 ---
+
 📌 News Endpoints
 
 Route:GET/news
@@ -94,28 +97,14 @@ Weather
 
 ---
 
-🌟 Nice to Have
+Use FastAPI (Python 3.12.6)
+• Use JWT or similar for authentication
+• Return all API responses in JSON
+• Provide Swagger docs at /docs
+• Write a README.md for setup and usage
+• Use caching to reduce third-party API load
 
-✅ Rate-limiting
-✅ Token refresh mechanism
-✅ Dockerization
-✅ CI/CD pipeline
-✅ Multi-city weather support
-✅ redis caching
 
----
 
-📤 Submission
-
-Please push your code to GitHub and share with: saksham@data-hat.com.
-Ensure you include:
-
-✅ Codebase
-
-✅ README.md
-
-✅ .env.example
-
-🔁 (Optional) Postman or Swagger export
 
 
