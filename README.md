@@ -79,23 +79,22 @@ NewsAPI / OpenWeatherMap (or similar)
 git clone https://github.com/yamunaraguthu/Talent-Acquision-Data-Hat-AI
 
 
-
+----
 
 2️⃣ Create a virtual environment
 
 python -m venv yamuna
 yamuna\Scripts\activate    
 
-
+----
 
 3️⃣ Install dependencies
 
 pip install -r requirements.txt
 
-
+----
 
 4️⃣ Set up environment variables
-
 
 Create a .env file based on .env.example:
 
@@ -107,7 +106,7 @@ WEATHER_API_KEY=767c1905e7ab50e9f6751515fd1e7d46
 
 REDIS_URL="redis://localhost:6379/0"
 
-
+----
 
 5️⃣ Run the app
 
