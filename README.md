@@ -5,7 +5,7 @@ SUBMITTED BY
 
 NAME:RAGUTHU YAMUNA
 
-TASK:Build A FastAPI Backend for News & Weather Aggregation
+TASK:BUILD A FASTAPI BACKEND FOR NEWS & WEATHER AGGREGATION
 
 
 ![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(129).png)
@@ -137,6 +137,6 @@ Use FastAPI (Python 3.12.6)
 Contact:
 Email:yamunaraguthu2003@gmail.com
 
-github:github.com/yamunaraguthu
+github:yamunaraguthu
 
 
