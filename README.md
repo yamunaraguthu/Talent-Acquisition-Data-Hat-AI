@@ -12,6 +12,20 @@ TASK:Build A FastAPI Backend for News & Weather Aggregation
 ![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(131).png)
 ![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(132).png)
 
+PROJECT STRUCTURE
+fastapi_news_weather/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── auth.py
+│   ├── news.py
+│   ├── weather.py
+│   ├── models.py
+│   ├── database.py
+│   ├── utils.py
+├── requirements.txt
+├── .env.example
+└── README.md
 
 
 🚀Requirements
@@ -113,7 +127,8 @@ Use FastAPI (Python 3.12.6)
 • Write a README.md for setup and usage
 • Use caching to reduce third-party API load
 
-
-
+Contact:
+Email:yamunaraguthu2003@gmail.com
+github.com/yamunaraguthu
 
 
