@@ -59,7 +59,7 @@ NewsAPI / OpenWeatherMap (or similar)
 1️⃣ Clone the repository
 
 git clone https://github.com/yamunaraguthu/Talent-Acquision-Data-Hat-AI
-cd data-hat-backend
+
 
 2️⃣ Create a virtual environment
 
