@@ -164,7 +164,9 @@ Use FastAPI (Python 3.12.6)
 • Write a README.md for setup and usage
 • Use caching to reduce third-party API load
 
+---
 Contact:
+
 Email:yamunaraguthu2003@gmail.com
 
 github:yamunaraguthu
