@@ -7,6 +7,7 @@ NAME:RAGUTHU YAMUNA
 
 TASK:BUILD A FASTAPI BACKEND FOR NEWS & WEATHER AGGREGATION
 
+OUTPUTS:
 
 ![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(129).png)
 ![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(130).png)
