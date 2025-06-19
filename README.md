@@ -156,7 +156,7 @@ Weather
 
 ---
 
-Use FastAPI (Python 3.12.6)
+📌Use FastAPI (Python 3.12.6)
 
 • Use JWT or similar for authentication
 • Return all API responses in JSON
@@ -165,7 +165,7 @@ Use FastAPI (Python 3.12.6)
 • Use caching to reduce third-party API load
 
 ---
-Contact:
+⚡Contact:
 
 Email:yamunaraguthu2003@gmail.com
 
