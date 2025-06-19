@@ -14,18 +14,31 @@ TASK:BUILD A FASTAPI BACKEND FOR NEWS & WEATHER AGGREGATION
 ![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(132).png)
 
 PROJECT STRUCTURE
+
 fastapi_news_weather/
+
 ├── app/
+
 │   ├── __init__.py
+
 │   ├── main.py
+
 │   ├── auth.py
+
 │   ├── news.py
+
 │   ├── weather.py
+
 │   ├── models.py
+
 │   ├── database.py
+
 │   ├── utils.py
+
 ├── requirements.txt
+
 ├── .env.example
+
 └── README.md
 
 
