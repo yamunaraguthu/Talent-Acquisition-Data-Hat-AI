@@ -98,10 +98,13 @@ pip install -r requirements.txt
 
 
 Create a .env file based on .env.example:
+
 SECRET_KEY=kw4dJvpSGD_XN-n_zFy_SnAmiM_WL9PV_d1DjolHr3o
+
 NEWS_API_KEY=7b292e04a7ac4bb59f787de6e9fbed04
 
 WEATHER_API_KEY=767c1905e7ab50e9f6751515fd1e7d46
+
 REDIS_URL="redis://localhost:6379/0"
 
 
