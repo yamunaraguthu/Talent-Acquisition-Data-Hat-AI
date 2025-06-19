@@ -1,12 +1,21 @@
 # Talent-Acquisition-Data-Hat-AI
-NAME:RAGUTHU YAMUNA
+DATA-HAT BACKEND DEVELOPER ASSIGNMENT
+SUBMITTED BY NAME:RAGUTHU YAMUNA
+
+TASK:Build a FastAPI Backend for News & Weather Aggregation
 
 
-Data-Hat FastAPI Backed for News & Weather Aggregation 
 
-This is a FastAPI backend application for news and weather aggregation, developed as part of the Data-Hat Full Stack Developer Assignment. The backend provides authenticated access to news data and unauthenticated access to weather data, aggregating information from third-party APIs.
 
-🚀 Features
+
+
+
+
+
+
+
+
+🚀Requirements
 
 User authentication (signup, login, logout) using JWT tokens
 
@@ -31,6 +40,7 @@ JWT for authentication
 NewsAPI / OpenWeatherMap (or similar)
 
 ---
+
 ⚡ Setup & Installation
 
 1️⃣ Clone the repository
