@@ -21,7 +21,7 @@ fastapi_news_weather/
 └── README.md
 
 ![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(129).png)
-![Screenshot (129)]()
+![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(130).png)
 ![Screenshot (129)]()
 ![Screenshot (129)]()
 
