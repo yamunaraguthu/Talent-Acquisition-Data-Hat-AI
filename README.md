@@ -1,40 +1,16 @@
 #Talent-Acquisition-Data-Hat-AI
 
 DATA-HAT BACKEND DEVELOPER ASSIGNMENT
-SUBMITTED BY NAME:RAGUTHU YAMUNA
+SUBMITTED BY 
+NAME:RAGUTHU YAMUNA
 
 TASK:Build A FastAPI Backend for News & Weather Aggregation
 
-PROJECT STRUCTURE 
-fastapi_news_weather/
-├── app/
-│   ├── __init__.py
-│   ├── main.py
-│   ├── auth.py
-│   ├── news.py
-│   ├── weather.py
-│   ├── models.py
-│   ├── database.py
-│   ├── utils.py
-├── requirements.txt
-├── .env.example
-└── README.md
 
 ![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(129).png)
 ![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(130).png)
 ![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(131).png)
-![Screenshot (129)]()
-
-
-
-
-
-
-
-
-
-
-
+![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(132).png)
 
 
 
