@@ -20,7 +20,17 @@ fastapi_news_weather/
 ├── .env.example
 └── README.md
 
-![Screenshot (139)]()
+![Screenshot (129)](https://github.com/yamunaraguthu/Talent-Acquisition-Data-Hat-AI/blob/main/Screenshot%20(129).png)
+![Screenshot (129)]()
+![Screenshot (129)]()
+![Screenshot (129)]()
+
+
+
+
+
+
+
 
 
 
